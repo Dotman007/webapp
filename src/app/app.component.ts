@@ -10,7 +10,6 @@ import { event } from './models/event';
 export class AppComponent {
   title = 'webapp';
   eventList : event[] =[];
-  filteredEvents  :  event[] = [];
   city: string = "";
   price :number = 0;
   
