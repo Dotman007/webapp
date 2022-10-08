@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "artiste": "Backstreet Boys",
+        "city": "Camden",
+        "price": 230
+    },
+    {
+        "id": 2,
+        "artiste": "West Life",
+        "city": "Washington",
+        "price": 200
+    },
+    {
+        "id": 3,
+        "artiste": "Wizkid",
+        "city": "Lagos",
+        "price": 100
+    },
+    {
+        "id": 4,
+        "artiste": "Burna Boy",
+        "city": "Lagos",
+        "price": 150
+    },
+    {
+        "id": 5,
+        "artiste": "KizDaniel",
+        "city": "Lagos",
+        "price": 120
+    }
+]
